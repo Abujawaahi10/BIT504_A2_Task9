@@ -5,8 +5,8 @@
 
 public class Age {
     public static void main(String[] args) {
-        int age = 25;
-        System.out.println("Age: " + age);
+    	int age = 30;
+    	System.out.println("Updated Age: " + age);
         System.out.println("Welcome to BIT504 Task 9!");
 
     }
