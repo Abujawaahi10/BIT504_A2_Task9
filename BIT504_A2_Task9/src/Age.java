@@ -7,5 +7,7 @@ public class Age {
     public static void main(String[] args) {
         int age = 25;
         System.out.println("Age: " + age);
+        System.out.println("Welcome to BIT504 Task 9!");
+
     }
 }
